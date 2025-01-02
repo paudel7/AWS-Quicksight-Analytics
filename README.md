@@ -52,6 +52,10 @@ Here are some demo we can get in this project:
  <p align="center"> <br>
  <img src="./assets/listedSelectionFiltered.jpg" alt="Selected" width="600" ><p><br>
 
+ **Lessons Learned**
+ <p align="center"> <br>
+ <img src="./assets/keyLearning.jpg" alt="Learning" width="600" ><p><br>
+
 
  </p>
 
