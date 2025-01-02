@@ -147,7 +147,7 @@ Here is a list of some of the resources I found helpful and would like to give c
 
 * Kevin Kiruri on Medium
 
-  **[For more details »](https://sites.google.com/view/aws-quicksight-netflixviz/home?authuser=1)**
+  **[For more details about the project »](https://sites.google.com/view/aws-quicksight-netflixviz/home?authuser=1)**
 
 
 <!-- <p align="right">(<a href="#-table-of-contents">back to top</a>)</p> -->
